@@ -7,8 +7,7 @@
     "X5_Star_Registration__c": "05/04/2019",
     "Graduate_Level_Received__c": "05/05/2019",
     "Celebrity_External_ID__c": "133249",
-    "Celebrity_Recertification__c": "05/05/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "05/05/2019"    
   },
   {
     "FirstName": "Tracy",
@@ -18,8 +17,7 @@
     "X5_Star_Registration__c": "02/26/2019",
     "Graduate_Level_Received__c": "02/26/2019",
     "Celebrity_External_ID__c": "838892",
-    "Celebrity_Recertification__c": "02/26/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "02/26/2019"    
   },
   {
     "FirstName": "Jennifer",
@@ -29,8 +27,7 @@
     "X5_Star_Registration__c": "05/29/2019",
     "Graduate_Level_Received__c": "07/18/2019",
     "Celebrity_External_ID__c": "843355",
-    "Celebrity_Recertification__c": "07/18/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "07/18/2019"    
   },
   {
     "FirstName": "Dedria",
@@ -40,8 +37,7 @@
     "X5_Star_Registration__c": "10/01/2018",
     "Graduate_Level_Received__c": "03/19/2019",
     "Celebrity_External_ID__c": "529591",
-    "Celebrity_Recertification__c": "03/19/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "03/19/2019"    
   },
   {
     "FirstName": "Debbi",
@@ -51,8 +47,7 @@
     "X5_Star_Registration__c": "03/09/2019",
     "Graduate_Level_Received__c": "04/01/2019",
     "Celebrity_External_ID__c": "676431",
-    "Celebrity_Recertification__c": "04/01/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "04/01/2019"    
   },
   {
     "FirstName": "Jessa",
@@ -62,8 +57,7 @@
     "X5_Star_Registration__c": "07/10/2019",
     "Graduate_Level_Received__c": "07/12/2019",
     "Celebrity_External_ID__c": "895010",
-    "Celebrity_Recertification__c": "07/12/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "07/12/2019"    
   },
   {
     "FirstName": "Nicole",
@@ -73,8 +67,7 @@
     "X5_Star_Registration__c": "06/03/2019",
     "Graduate_Level_Received__c": "06/07/2019",
     "Celebrity_External_ID__c": "886823",
-    "Celebrity_Recertification__c": "06/07/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "06/07/2019"    
   },
   {
     "FirstName": "Kurt",
@@ -84,8 +77,7 @@
     "X5_Star_Registration__c": "10/31/2018",
     "Graduate_Level_Received__c": "11/15/2018",
     "Celebrity_External_ID__c": "821678",
-    "Celebrity_Recertification__c": "02/02/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "02/02/2019"    
   },
   {
     "FirstName": "Tazonia",
@@ -95,8 +87,7 @@
     "X5_Star_Registration__c": "04/09/2018",
     "Graduate_Level_Received__c": "05/21/2019",
     "Celebrity_External_ID__c": "795842",
-    "Celebrity_Recertification__c": "05/21/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "05/21/2019"    
   },
   {
     "FirstName": "Debra",
@@ -106,7 +97,6 @@
     "X5_Star_Registration__c": "02/08/2018",
     "Graduate_Level_Received__c": "09/07/2018",
     "Celebrity_External_ID__c": "441785",
-    "Celebrity_Recertification__c": "01/10/2019",
-    "RecordTypeId": "5 Star Academy Contact"
+    "Celebrity_Recertification__c": "01/10/2019"    
   }
 ]
