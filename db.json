@@ -10,6 +10,17 @@
     "Celebrity_Recertification__c": "2019-05-05 09:11:23",
     "RecordTypeId": "5 Star Academy Contact"
   },
+    {
+    "FirstName": "ADA",
+    "LastName": "WEI",
+    "Email": "ada@marcopolotours.com",
+    "Phone": "",
+    "X5_Star_Registration__c": "2019-05-04 06:20:20",
+    "Graduate_Level_Received__c": "2019-05-05 09:11:23",
+    "Celebrity_External_ID__c": "172783",
+    "Celebrity_Recertification__c": "2019-05-05 09:11:23",
+    "RecordTypeId": "5 Star Academy Contact"
+  },
   {
     "FirstName": "Tracy",
     "LastName": "Wild",
